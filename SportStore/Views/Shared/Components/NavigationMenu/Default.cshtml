@@ -1,0 +1,23 @@
+﻿@model IEnumerable<string>
+
+<a class="btn btn-block 
+   @(ViewBag.SelectedProduct == "" ? "btn-primary" : "btn-secondary")" 
+   style="width:100%;margin:5px"
+   asp-action="Index"
+   asp-controller="Products"
+   asp-route-category="">
+    Home
+</a>
+
+@foreach(string category in Model)
+{
+    <a class="btn btn-block 
+       @(ViewBag.SelectedProduct == category ? "btn-primary" : "btn-secondary")"
+       style="width:100%;margin:5px"
+       asp-action="Index"
+       asp-controller="Products"
+       asp-route-category="@category"
+       asp-route-productPage="1">
+    @category
+    </a>
+}

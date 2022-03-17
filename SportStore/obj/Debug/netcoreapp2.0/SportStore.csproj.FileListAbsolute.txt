@@ -1,0 +1,15 @@
+D:\Winform_Project\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfoInputs.cache
+D:\Winform_Project\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfo.cs
+D:\Winform_Project\SportStore\obj\Debug\netcoreapp2.0\SportStore.csproj.CoreCompileInputs.cache
+D:\Winform_Project\SportStore\obj\Debug\netcoreapp2.0\SportStore.csprojAssemblyReference.cache
+D:\Winform_Project\SportStore\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Winform_Project\SportStore\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Winform_Project\SportStore\bin\Debug\netcoreapp2.0\SportStore.deps.json
+D:\Winform_Project\SportStore\bin\Debug\netcoreapp2.0\SportStore.runtimeconfig.json
+D:\Winform_Project\SportStore\bin\Debug\netcoreapp2.0\SportStore.runtimeconfig.dev.json
+D:\Winform_Project\SportStore\bin\Debug\netcoreapp2.0\SportStore.dll
+D:\Winform_Project\SportStore\bin\Debug\netcoreapp2.0\SportStore.pdb
+D:\Winform_Project\SportStore\obj\Debug\netcoreapp2.0\SportStore.dll
+D:\Winform_Project\SportStore\obj\Debug\netcoreapp2.0\SportStore.pdb
+D:\Winform_Project\SportStore\obj\Debug\netcoreapp2.0\SportStore.genruntimeconfig.cache
+D:\Winform_Project\SportStore\bin\Debug\netcoreapp2.0\libman.json
